@@ -6,6 +6,23 @@ Esta carpeta reúne una selección de proyectos realizados durante mi formación
 
 El propósito es mostrar las técnicas utilizadas, el razonamiento aplicado y los entregables desarrollados. Se conservan las versiones académicas y sus limitaciones conocidas. Los resultados guardados en informes y notebooks corresponden a las ejecuciones de esas entregas; preparar este portafolio no implicó volver a entrenar los modelos ni validar los simuladores.
 
+## Herramientas
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9A825?style=for-the-badge&logo=googlecolab&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge)
+![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logo=knime&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+![FlexSim](https://img.shields.io/badge/FlexSim-005A9C?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge)
+
+
 ## Proyectos incluidos
 
 Los cuatro proyectos principales conectan herramientas de datos con preguntas empresariales u operativas. Los tres ejercicios complementarios muestran fundamentos e implementación de métodos.
