@@ -1,0 +1,45 @@
+# Solo documentación y proyectos seleccionados en la raíz.
+/*
+!/README.md
+!/.gitignore
+!/01-business-analytics-delitos-la/
+!/02-segmentacion-clientes/
+!/03-regresion-superficies/
+!/04-fuga-clientes/
+!/05-simulacion-litio/
+!/06-athena-centro-llamadas/
+!/07-inferencia-bayesiana/
+
+# Datos locales. Se permite versionar la documentación de sus fuentes.
+**/[Dd]ata/**
+!/01-business-analytics-delitos-la/
+!/02-segmentacion-clientes/
+!/03-regresion-superficies/
+!/04-fuga-clientes/
+!/05-simulacion-litio/
+!/06-athena-centro-llamadas/
+!/07-inferencia-bayesiana/**/[Dd]ata/FUENTES.md
+**/1. [Dd]ata/**
+!/01-business-analytics-delitos-la/
+!/02-segmentacion-clientes/
+!/03-regresion-superficies/
+!/04-fuga-clientes/
+!/05-simulacion-litio/
+!/06-athena-centro-llamadas/
+!/07-inferencia-bayesiana/**/1. [Dd]ata/FUENTES.md
+**/Crime_Data_from_2020_to_Present.csv
+**/Arrest_Data_from_2020_to_Present.csv
+**/Final_Crime_Data_from_2020_to_Present_arreglado.xlsx
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/~$*
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.pyc
+*.lic
+**/.env
+**/.env.*
+**/config.txt
+# Entrega original con credenciales incrustadas; no incorporar sin preparar una copia limpia.
+**/Gráficos_Entrega2_BA.ipynb
